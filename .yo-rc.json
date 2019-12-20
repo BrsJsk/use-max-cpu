@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Boris Joskic",
+      "authorEmail": "joskicboris95@gmail.com",
+      "authorUrl": "https://www.mallot.info/"
+    }
+  }
+}
